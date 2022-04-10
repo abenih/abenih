@@ -1,7 +1,7 @@
 - 👋 Hi, I’m Abenezer Habtamu
 - 👀 I’m interested in programming and hardware maintainance
 - 🌱 I’m currently learning software engineering and a whole lot
-- 💞️ I’m looking to collaborate on developers on projects
+- 💞️ I’m looking to collaborate on projects with developers
 - 📫 How to reach me Email- abenih785181@gmail.com
 
 <!---
